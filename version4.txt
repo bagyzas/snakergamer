@@ -99,5 +99,6 @@ void LogikaZ()
 	{
 		render();
 		Inputas();
+		LogikaZ();
 	}
 }
